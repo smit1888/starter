@@ -1,5 +1,5 @@
 Title:-assignment1  
 
-Description:- making new repository   
+Description:- Github Pages  
 
 Link :- https://smit1888.github.io/starter/
